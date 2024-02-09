@@ -1,0 +1,138 @@
+{
+    "basics": {
+        "name": "Ariel González",
+        "label": "Programmer",
+        "image": "",
+        "email": "arielgonzalezdelacruz@gmail.com",
+        "phone": "+525561360073",
+        "summary": "A summary of John Doe…",
+        "location": {
+            "address": "Avenida 16 de Septiembre",
+            "postalCode": "05500",
+            "city": "Cuajimalpa",
+            "countryCode": "MX",
+            "region": "Cuidad de México"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "iarielg",
+                "url": "https://github.com/iarielg"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "José Ariel González Cruz",
+                "url": "https://www.linkedin.com/in/jarielgc/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Gulf México",
+            "position": "Desarollador Jr.",
+            "url": "https://company.com",
+            "startDate": "2023-02-01",
+            "endDate": "2024-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        },
+        {
+            "name": "Neoris México",
+            "position": "Java Fullstack Jr.",
+            "url": "https://company.com",
+            "startDate": "2022-03-01",
+            "endDate": "2024-11-01",
+            "summary": "Description…",
+            "highlights": [
+                "Started the company"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Mexicana",
+            "url": "https://institution.com/",
+            "area": "Sistemas computacionales",
+            "studyType": "Bachelor",
+            "startDate": "2019-09-01",
+            "endDate": "2023-12-10",
+            "score": "8.7"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Frontend",
+            "level": "Intermedio",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Node.js",
+                "Astro",
+                "Bun"
+            ]
+        },
+        {
+            "name": "Backend",
+            "level": "Intermedio",
+            "keywords": [
+                "SpringBoot",
+                "Hibernate",
+                "JPA",
+                "Quarkus"
+            ]
+        },
+        {
+            "name": "Databases",
+            "level": "Intermedio",
+            "keywords": [
+                "MySQL",
+                "Sql Server",
+                "MongoDB"
+            ]
+        },
+        {
+            "name": "Otros",
+            "level": "Intermedio",
+            "keywords": [
+                "Docker",
+                "GitHub",
+                "Git",
+                "Postman"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Basico"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Nativo"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ]
+}
