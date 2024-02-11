@@ -1,15 +1,15 @@
 {
     "basics": {
         "name": "Ariel González",
-        "label": "Programmer",
-        "image": "",
+        "label": "Programador Java Fullstack Jr.",
+        "image": "https://media.licdn.com/dms/image/C5603AQEuDtyTo6PzqA/profile-displayphoto-shrink_400_400/0/1637048742886?e=1712793600&v=beta&t=xd2rium1Wlfq6Rx1PtRALZBw1C4-atfwGuRx348Ouzc",
         "email": "arielgonzalezdelacruz@gmail.com",
-        "phone": "+525561360073",
-        "summary": "A summary of John Doe…",
+        "phone": "+52 5561360073",
+        "summary": "+2 años de experiencia en el desarrollo de frontend y backend. Me apasiona el desarrollo de software y la resolución de problemas. Me considero una persona autodidacta, proactiva y con facilidad para trabajar en equipo.",
         "location": {
             "address": "Avenida 16 de Septiembre",
             "postalCode": "05500",
-            "city": "Cuajimalpa",
+            "city": "Cuajimalpa de Morelos",
             "countryCode": "MX",
             "region": "Cuidad de México"
         },
@@ -29,110 +29,230 @@
     "work": [
         {
             "name": "Gulf México",
-            "position": "Desarollador Jr.",
-            "url": "https://company.com",
+            "position": "Ingeniero de Soporte 2 | Desarollador Jr.",
             "startDate": "2023-02-01",
-            "endDate": "2024-01-01",
-            "summary": "Description…",
-            "highlights": [
-                "Started the company"
-            ]
+            "endDate": null,
+            "summary": "En Gulf realize soporte a aplicaciones y a usuarios finales. Trabajé con Bases de datos relaciones y no relaciones en producción, y tuve la oportunidad de trabajar un tiempo con el equipo de Android creando pantallas para las aplicaciones internas e identificación y resolución de bugs de las mismas. Tambien participe con el equipo de frontend, realizando paginas web para las aplicaciones internas de la empresa."
         },
         {
             "name": "Neoris México",
             "position": "Java Fullstack Jr.",
-            "url": "https://company.com",
             "startDate": "2022-03-01",
-            "endDate": "2024-11-01",
-            "summary": "Description…",
-            "highlights": [
-                "Started the company"
-            ]
+            "endDate": "2022-11-01",
+            "summary": "En Neoris participe en la creación de un microservicio con Quarkus, GraalVM , MongoDB, testeo de las mismas con Postman. Esto fue un reto, ya que eran mi primera vez trabajando con estas tecnologías y fue un proyecto que se realizo en un tiempo muy corto."
         }
     ],
     "education": [
         {
             "institution": "Universidad Mexicana",
-            "url": "https://institution.com/",
             "area": "Sistemas computacionales",
-            "studyType": "Bachelor",
+            "studyType": "Licenciatura",
             "startDate": "2019-09-01",
             "endDate": "2023-12-10",
-            "score": "8.7"
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "score": "8.7",
+            "summary": "En la Universidad participe en proyectos un poco más pequeños, en estos proyectos al ser yo el que tenía más experiencia, lidere el equipo para llevar al equipo y a los proyectos a una buena nota. He adquirido conocimientos en SQL (SQL Server), PHP y Visual."
         }
     ],
     "skills": [
         {
-            "name": "Frontend",
+            "name": "HTML",
             "level": "Intermedio",
             "keywords": [
-                "HTML",
-                "CSS",
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Basico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
                 "JavaScript",
-                "React",
-                "Node.js",
-                "Astro",
-                "Bun"
+                "Servidor"
             ]
         },
         {
-            "name": "Backend",
+            "name": "SQL",
             "level": "Intermedio",
             "keywords": [
-                "SpringBoot",
-                "Hibernate",
-                "JPA",
-                "Quarkus"
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
             ]
         },
         {
-            "name": "Databases",
+            "name": "Git",
             "level": "Intermedio",
             "keywords": [
-                "MySQL",
-                "Sql Server",
-                "MongoDB"
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
             ]
         },
         {
-            "name": "Otros",
+            "name": "GitHub",
             "level": "Intermedio",
             "keywords": [
-                "Docker",
-                "GitHub",
-                "Git",
-                "Postman"
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Astro",
+            "level": "Basico",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Intermedio",
+            "keywords": [
+                "Backend",
+                "Desarrollo Web",
+                "Programación",
+                "POO"
+            ]
+        },
+        {
+            "name": "SpringBoot",
+            "level": "Intermedio",
+            "keywords": [
+                "Backend",
+                "Desarrollo Web",
+                "Java Framework",
+                "POO"
+            ]
+        },
+        {
+            "name": "Quarkus",
+            "level": "Basico",
+            "keywords": [
+                "Backend",
+                "Desarrollo Web",
+                "Java Framework",
+                "POO"
+            ]
+        },
+        {
+            "name": "GraalVM",
+            "level": "Basico",
+            "keywords": [
+                "Backend",
+                "Desarrollo Web",
+                "Java Framework",
+                "POO"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Intermedio",
+            "keywords": [
+                "Bases de Datos",
+                "NoSQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Postman",
+            "level": "Intermedio",
+            "keywords": [
+                "Testing",
+                "API",
+                "Backend",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "Bun",
+            "level": "Basico",
+            "keywords": [
+                "Backend",
+                "Desarrollo Web"
+            ]
+        },
+        {
+            "name": "Docker",
+            "level": "Basico",
+            "keywords": [
+                "Contenedores",
+                "Virtualización"
             ]
         }
     ],
     "languages": [
         {
-            "language": "English",
-            "fluency": "Basico"
+            "language": "Inglés",
+            "fluency": "Básico"
         },
         {
-            "language": "Spanish",
+            "language": "Español",
             "fluency": "Nativo"
         }
     ],
     "projects": [
         {
-            "name": "Project",
-            "startDate": "2019-01-01",
-            "endDate": "2021-01-01",
-            "description": "Description...",
-            "highlights": [
-                "Won award at AIHacks 2016"
-            ],
-            "url": "https://project.com/"
+            "name": "Eccomerce",
+            "description": "Eccomerce desarrollado con JavaScript, SpringBoot, Hibernate y MySQL. En este projecto trabaje con un equipo de 6 personas y fui el encargado del desarrollo del backend.",
+            "url": "https://github.com/iarielg/ProyectoInt"
         }
     ]
 }

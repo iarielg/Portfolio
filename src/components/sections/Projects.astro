@@ -1,0 +1,23 @@
+---
+import Section from "../Section.astro";
+import { projects } from "@cv";
+---
+
+<Section title="Proyectos">
+    {projects.map(({name, description, url}) => {
+        return (
+            <div>
+                <a
+                    href={url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <h3>{name}</h3>
+                </a>
+                <p>{description}</p>
+                
+            </div>
+        )
+    })}
+
+</Section>
